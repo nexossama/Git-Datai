@@ -1,1 +1,2 @@
 hello from hello.txt
+ I am a new line
